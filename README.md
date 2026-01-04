@@ -5,7 +5,6 @@ SQL data analysis on an e-commerce dataset(meesho) to explore orders, revenue, a
 ## 📌 Project Overview
 
 This project focuses on analyzing an e-commerce order dataset using SQL to extract meaningful insights related to order trends, revenue, cancellations, and logistics performance.
-The goal is to practice real-world SQL queries commonly used in data analyst internships.
 
 🧾 Dataset Description
 
